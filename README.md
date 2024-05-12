@@ -23,16 +23,16 @@ I'm a Data Scientist with a passion for leveraging data to drive insights and so
   
 ## 🔧 Skills & Tools
 
-- Programming Languages & Frameworks: Python (PyTorch, TensorFlow, scikit-learn, pandas, NumPy), R, SQL, MATLAB
-- Data Analysis & Visualization: Tableau, seaborn, matplotlib, Power BI, Data Cleaning, Excel
-- Computer Vision: OpenCV, Pillow, scikit-image, YOLO, Detectron2, Torchvision
-- Natural Language Processing (NLP): NLTK, spaCy, Hugging Face Transformers  
-- Data Labeling & Annotation: Labelbox, Amazon SageMaker Ground Truth
-- Deployment & APIs: Django, Flask, Streamlit, Heroku, AWS Lambda
-- User Interface: PyQt6 and Tkinter
-- Web Scraping & Automation: Scrapy, Scrapy-Splash, Selenium
-- Cloud & DevOps: AWS, Azure, Docker, Git
-- Development Tools: Visual Studio Code, Command Line, Google Colab, Jupyter Notebooks
+- **Programming Languages & Frameworks:** Python (PyTorch, TensorFlow, scikit-learn, pandas, NumPy), R, SQL, MATLAB
+- **Data Analysis & Visualization:** Tableau, seaborn, matplotlib, Power BI, Data Cleaning, Excel
+- **Computer Vision:** OpenCV, Pillow, scikit-image, YOLO, Detectron2, Torchvision
+- **Natural Language Processing (NLP):** NLTK, spaCy, Hugging Face Transformers  
+- **Data Labeling & Annotation:** Labelbox, Amazon SageMaker Ground Truth
+- **Deployment & APIs:** Django, Flask, Streamlit, Heroku, AWS Lambda
+- **User Interface:** PyQt6 and Tkinter
+- **Web Scraping & Automation:** Scrapy, Scrapy-Splash, Selenium
+- **Cloud & DevOps:** AWS, Azure, Docker, Git
+- **Development Tools:** Visual Studio Code, Command Line, Google Colab, Jupyter Notebooks
 
 ## 📜 Certifications
 
