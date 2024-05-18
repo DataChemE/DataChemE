@@ -36,7 +36,7 @@ I'm a Data Scientist with a passion for leveraging data to drive insights and so
 
 ## 📜 Certifications
 
-- Associate Data Scientist (2022) | DataCamp
+- Data Scientist (2022) | DataCamp
 - Tableau Desktop Specialist (2022) | Tableau
 - AWS Certified Cloud Practitioner (2022) | Amazon
 
