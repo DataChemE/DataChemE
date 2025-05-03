@@ -4,7 +4,7 @@ I'm a Data Scientist with a passion for leveraging data to drive insights and so
 
 ## 🎓 Education
 
-- M.S. in Data Science (Expected March 2025) | University of Colorado Boulder | GPA: 3.95
+- M.S. in Data Science (Completed March 2025) | University of Colorado Boulder | GPA: 3.94
 - B.S. in Chemical Engineering (2015) | Iowa State University
 
 ## 🔭 Current Projects
