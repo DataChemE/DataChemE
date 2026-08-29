@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tyler Jensen
+# 👋 Hi, I'm Tyler
 
 I'm a Data Scientist with a passion for leveraging data to drive insights and solve complex problems. With a background in Chemical Engineering and experience in various industries, I bring a unique perspective to the world of data science.
 
